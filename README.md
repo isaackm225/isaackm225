@@ -14,6 +14,7 @@
       <p align="center"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@isaackm225/cb165788-e5dc-46c8-9aac-20e130035874.png" height=300px/></a></p>      
     </td>
   </tr>
+    <!--
   <tr>
     <th>
       <h2 align="center">Languages</h1>
@@ -30,6 +31,7 @@
       <p align="center"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@isaackm225/208c47d8-aaf6-4b52-8838-77466672484a.png" height=300px /></a></p>             
     </td>
   </tr>
+-->
 </table>
  <br/>
  
